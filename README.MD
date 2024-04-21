@@ -34,3 +34,5 @@ Steps to open mysql in docker:
 
 
 .zshrc is a hidden file located in your Home directory aka /Users/$HOME. To view hidden files, open your Home folder and press Command + Shift + . Then open the .zshrc file in your text editor
+
+

@@ -33,5 +33,4 @@ public class WithoutConnectionPool {
             e.printStackTrace();
         }
     }
-
 }
