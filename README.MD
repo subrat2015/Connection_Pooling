@@ -24,12 +24,12 @@ Steps to open mysql in docker:
 5- 
 
 ![](../../../../../../../var/folders/n6/vfnq0nm54lj9c866r06qj68w0000gn/T/TemporaryItems/NSIRD_screencaptureui_DuoYDf/Screenshot 2024-04-21 at 8.07.38 AM.png)
-
+see the screenshot in this file:Screenshot 2024-04-21 at 8.51.53 AM.png
 
 
 
 ![](../../../../../../../var/folders/n6/vfnq0nm54lj9c866r06qj68w0000gn/T/TemporaryItems/NSIRD_screencaptureui_FylirU/Screenshot 2024-04-21 at 8.12.42 AM.png)
-
+see the screenshot in this file: Screenshot 2024-04-21 at 8.47.25 AM.png
 
 
 

@@ -7,8 +7,8 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
-        runWithoutConnectionPool();
-        //runWithConnectionPool();
+        //runWithoutConnectionPool();
+        runWithConnectionPool();
     }
 
     public static void runWithoutConnectionPool() {
